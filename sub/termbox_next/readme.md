@@ -17,7 +17,7 @@ we will discuss no further.
 ## The new Termbox-next
 This fork was made to restore the codebase to its original quality (before
 [66c3f91](https://github.com/nsf/termbox/commit/66c3f91b14e24510319bce6b5cc2fecf8cf5abff))
-while providing all the functionnalities of the current implementation.
+while providing all the functionalities of the current implementation.
 This was achieved by branching at
 [a2e217f](https://github.com/nsf/termbox/commit/a2e217f0fb97e6bbd589136ea3945f9d5a123d81)
 and cherry-picking all the commits up to

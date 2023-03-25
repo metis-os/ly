@@ -76,7 +76,7 @@ struct configator_param sections[] =
 };
 ```
 
-Don't forget to put the right numbers in the lenght variables
+Don't forget to put the right numbers in the length variables
 ```
 uint16_t map_len[] = {0, 2};
 uint16_t sections_len = 1;
